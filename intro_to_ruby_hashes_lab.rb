@@ -1,15 +1,17 @@
 def new_hash{
-  :
-}
+  new_has={}
 
 end
 
 def actor
+  actor = {name:Dwayne The Rock"}
 
 end
 
 def monopoly
-	monopoly = {}
+	monopoly ={
+	  rails:{}
+	}
 
 end
 
